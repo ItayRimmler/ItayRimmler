@@ -17,7 +17,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itayrimmler&show_icons=true&locale=en&layout=compact" alt="itayrimmler" /></p>
 
 <h3 align="left">Screenshots from my projects:</h3>
-<a href="https://linkedin.com/in/itay rimmler" target="blank"><img align="center" src="Screenshot (1).png" alt="itay rimmler" height="300" width="400" /></a>
-<a href="https://linkedin.com/in/itay rimmler" target="blank"><img align="center" src="yonatan0Painted.png" alt="itay rimmler" height="300" width="400" /></a>
-<a href="https://linkedin.com/in/itay rimmler" target="blank"><img align="center" src="Screenshot 2024-05-17 215000.png" alt="itay rimmler" height="300" width="400" /></a>
-<a href="https://linkedin.com/in/itay rimmler" target="blank"><img align="center" src="Screensho.png" alt="itay rimmler" height="300" width="400" /></a>
+<a href="https://linkedin.com/in/itay rimmler" target="blank"><img align="center" src="Screenshot (1).png" alt="itay rimmler" height="300" width="500" /></a>
+<a href="https://linkedin.com/in/itay rimmler" target="blank"><img align="center" src="yonatan0Painted.png" alt="itay rimmler" height="300" width="500" /></a>
+<a href="https://linkedin.com/in/itay rimmler" target="blank"><img align="center" src="Screenshot 2024-05-17 215000.png" alt="itay rimmler" height="300" width="500" /></a>
+<a href="https://linkedin.com/in/itay rimmler" target="blank"><img align="center" src="Screensho.png" alt="itay rimmler" height="300" width="500" /></a>
