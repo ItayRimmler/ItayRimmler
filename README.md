@@ -17,7 +17,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itayrimmler&show_icons=true&locale=en&layout=compact" alt="itayrimmler" /></p>
 
 <h3 align="left">Screenshots from my projects:</h3>
+<h4 align="left">Prominent Peak Finding Algorithm Made By Integrating C++ and Python:</h4>
 <a href="https://linkedin.com/in/itay rimmler" target="blank"><img align="center" src="Screenshot (1).png" alt="itay rimmler" height="300" width="500" /></a>
+<h5 align="left">(It also predicted correctly which notes I played on my piano, Fa# and Mi, or F# and E)</h5>
+<h4 align="left">Note Isolator From a Previous Version of LiveSheetReader:</h4>
 <a href="https://linkedin.com/in/itay rimmler" target="blank"><img align="center" src="yonatan0Painted.png" alt="itay rimmler" height="300" width="500" /></a>
+<h4 align="left">One of Many, Many, Video Games I made:</h4>
 <a href="https://linkedin.com/in/itay rimmler" target="blank"><img align="center" src="Screenshot 2024-05-17 215000.png" alt="itay rimmler" height="300" width="500" /></a>
 <a href="https://linkedin.com/in/itay rimmler" target="blank"><img align="center" src="Screensho.png" alt="itay rimmler" height="300" width="500" /></a>
