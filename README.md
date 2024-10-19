@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Itay Rimmler</h1>
 <h3 align="center">Electrical Engineering Student, ML and Signal Processing Engineer</h3>
 
-- 🔭 I’m currently working on [LiveSheetReader](https://github.com/ItayRimmler/LiveSheetReaderBIU) and [Efroakh](https://github.com/ItayRimmler/Efroakh)
+- 🔭 I’m currently working on [LiveSheetReaderBIU](https://github.com/ItayRimmler/LiveSheetReaderBIU) and [Efroakh](https://github.com/ItayRimmler/Efroakh)
 
 - 📫 How to reach me **itay.rimmler@gmail.com**
 
