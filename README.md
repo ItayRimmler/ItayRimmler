@@ -39,7 +39,7 @@
 <img src="MeDafDef2.png" alt="Sheet Viewer" height="300" width="500"/>
 
 
-<h3 align="left">Screenshots from my projects:</h3>
+<h3 align="left">Screenshots from my (other) projects:</h3>
 
 <h4 align="left">Prominent Peak Finding Algorithm Made By Integrating C++ and Python, Using Random Forests:</h4>
 <img src="Screenshot (1).png" alt="Peak Finding" height="300" width="500" />
