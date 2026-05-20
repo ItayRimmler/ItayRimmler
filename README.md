@@ -2,7 +2,7 @@
 <h3 align="center">⚡Electrical Engineer, Expanding Embedded Skills on My (Not So) Free Time, and I'm Proficient in Signal Processing (CV & Audio)⚡</h3>
 <h4 align="center">‼️Currently Working as a Technical Writer & Electrical Diagram Engineer‼️</h4>
 
-- 🔭 I’m currently working on [MeDafDef](https://github.com/ItayRimmler/MeDafDef) and in my free time, [Efroakh](https://github.com/ItayRimmler/Efroakh) and any game I have an idea to create and develop!
+- 🔭 Check out my old project [MeDafDef](https://github.com/ItayRimmler/MeDafDef) , was researched in BIU! I've done more cool things such as [XLdiagram](https://github.com/ItayRimmler/XLdiagram) so feel free to check these things out!
 
 - 📫 How to reach me **itay.rimmler@gmail.com**
 
